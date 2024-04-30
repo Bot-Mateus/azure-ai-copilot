@@ -1,6 +1,6 @@
 # Microsoft Copilot
 
-Neste laboratório utilizo o microsoft copilot para analise de imagens e criação de textos com IA generativa
+Neste laboratório utilizo o microsoft copilot para análise de imagens e criação de textos com IA generativa
 
 # Passo a Passo
 
@@ -67,4 +67,20 @@ Passei essa instrução junto com a imagem para o Copilot:
 
 Esta imagem captura um ambiente interno, especificamente uma área de refeições com uma pessoa sentada à mesa. A pessoa segura uma xícara próxima ao rosto, cujas características faciais estão obscurecidas por um retângulo borrado para preservar a privacidade. A mesa está repleta de diversos itens alimentares e bebidas. Destacam-se um copo com líquido verde (possivelmente suco ou coquetel), outro copo contendo uma bebida com frutas fatiadas e uma tigela branca com uma variedade de frutas e vegetais. Vários pequenos potes com tampas douradas estão dispostos na mesa. Acima da mesa, um lustre de vime ornamentado fornece iluminação ao espaço. A área de refeições parece aconchegante e bem iluminada, com luz natural entrando pela grande janela ao fundo. Fora da janela, é possível ver vegetação e uma encosta terrosa. A combinação entre o conforto interior e a paisagem exterior torna essa imagem interessante. 🍽️🌿
 
+# Tarefa 3: Coleta de informações da Nota Fiscal
+
+Passei essa instrução junto com a imagem para o Copilot:
+
+``` 
+  input: Qual é o valor da "UF" e "Valor Total da Nota" neste documento: 
+```
+![Nota Fiscal](https://github.com/Bot-Mateus/azure-ai-copilot/edit/main/inputs/Nfe.png)
+
+# Resposta Tarefa 3
+Os valores UF e Valor Total da Nota neste documento DANFE (Documento Auxiliar da Nota Fiscal Eletrônica) são os seguintes:
+
+- UF: RS
+- Valor Total da Nota: R$ 230,00.
+
+Essas informações são essenciais para entender a transação e os custos associados. Caso tenha mais alguma dúvida, estou à disposição! 😊
 
