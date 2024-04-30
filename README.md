@@ -8,7 +8,7 @@ Para iniciar basta acessar [Microsoft Copilot](https://copilot.microsoft.com/).
 
 Deixei as imagens utilizadas na pasta [inputs](https://github.com/Bot-Mateus/azure-ai-copilot/edit/main/inputs), fiquem a vontade para utiliza-las.
 
-Basta adicionar a imagem, redigir a pergunta e enviar, o Copilot irá te responder.
+Basta adicionar a imagem, redigir a pergunta e enviar, o Copilot irá te responder. Com certeza essa uma das ferramentas mais simples da Azure para interagir.
 
 # Tarefa 1: "O que é o Copilot?"
 Realizei essa pergunta para o proprio Copilot responder:
@@ -61,7 +61,7 @@ Passei essa instrução junto com a imagem para o Copilot:
 ``` 
   input: Descreva com detalhes essa imagem:
 ```
-![Tomando Café](https://github.com/Bot-Mateus/azure-ai-copilot/edit/main/inputs/cafe.jpg)
+![Tomando Café](https://github.com/Bot-Mateus/azure-ai-copilot/blob/main/inputs/cafe.jpg)
 
 ## Resposta da Tarefa 2
 
@@ -74,7 +74,7 @@ Passei essa instrução junto com a imagem para o Copilot:
 ``` 
   input: Qual é o valor da "UF" e "Valor Total da Nota" neste documento: 
 ```
-![Nota Fiscal](https://github.com/Bot-Mateus/azure-ai-copilot/edit/main/inputs/Nfe.png)
+![Nota Fiscal](https://github.com/Bot-Mateus/azure-ai-copilot/blob/main/inputs/Nfe.png)
 
 # Resposta Tarefa 3
 Os valores UF e Valor Total da Nota neste documento DANFE (Documento Auxiliar da Nota Fiscal Eletrônica) são os seguintes:
