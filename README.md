@@ -2,6 +2,14 @@
 
 Neste laboratório utilizo o microsoft copilot para análise de imagens e criação de textos com IA generativa
 
+# Índice
+
+- [Passo a Passo](#passo-a-passo)
+- [Tarefa 1: "O que é o Copilot?"](#tarefa-1-o-que-é-o-copilot)
+- [Tarefa 2: Descrever Imagem com detalhes](#tarefa-2-descrever-imagem-com-detalhes)
+- [Tarefa 3: Coleta de informações da Nota Fiscal](#tarefa-3-coleta-de-informações-da-nota-fiscal)
+- [Como me encontrar](#como-me-encontrar)
+
 # Passo a Passo
 
 Para iniciar basta acessar [Microsoft Copilot](https://copilot.microsoft.com/).
@@ -83,4 +91,13 @@ Os valores UF e Valor Total da Nota neste documento DANFE (Documento Auxiliar da
 - Valor Total da Nota: R$ 230,00.
 
 Essas informações são essenciais para entender a transação e os custos associados. Caso tenha mais alguma dúvida, estou à disposição! 😊
+
+# Como me encontrar
+
+<p align="left">
+<!-- <a href="https://elbrusagency.com/"><img src="https://img.shields.io/badge/-elbrusagency.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/mateus-carvalho-da-silva/"><img src="https://img.shields.io/badge/-Mateus%20Carvalho-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:carvalho.silva2001@gmail.com"><img src="https://img.shields.io/badge/-carvalho.silva2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mateusoaksilva/"><img src="https://img.shields.io/badge/-@mateusoaksilva-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
